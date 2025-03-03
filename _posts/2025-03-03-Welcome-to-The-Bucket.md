@@ -1,6 +1,6 @@
 <h1>Welcome to The Bucket</h1>
 
-<h3>(It's giving Krusty Krab.) </h3>
+<h5>(It's giving Krusty Krab.) </h5>
 
 <p>Welcome to my blog, aptly named The Bakeapple Bucket (The Bucket, for short). You can already read the *why* behind this name on my homepage, so in this post, I'll dive into the *why* behind this blog's creation in the first place.</p>
 
