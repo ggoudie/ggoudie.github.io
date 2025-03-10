@@ -10,5 +10,4 @@
 
 <p>Enjoy!</p>
  </main>
-Big thank you to Chad Baldwin for his resources on creating blogs with Jekyll. You can check out the page that got me started <a href=https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html>here!</a>
 </body>
